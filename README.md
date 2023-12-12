@@ -12,9 +12,9 @@ While my GitHub currently only list one project, my crosshair generator for Five
 ## My Services
 I offer a range of services including:
 
-- Coding: Crafting high-quality, efficient code for diverse needs.
-- Graphic Design: Creating visually appealing and functional designs.
-- Project Management: Ensuring projects are delivered effectively and on time.
+- **Coding:** Crafting high-quality, efficient code for diverse needs.
+- **Graphic Design:** Creating visually appealing and functional designs.
+- **Project Management:** Ensuring projects are delivered effectively and on time.
 
 ## Continuous Updates
 I'm dedicated to constantly updating and refining my scripts to ensure optimal performance and to keep up with the latest technological advancements.
