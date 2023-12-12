@@ -4,7 +4,7 @@
 I'm Dimitris, a developer with a keen interest in FiveM scripts. My work encompasses coding, graphic design, and project management, with a focus on creating robust and reliable scripts for various applications.
 
 ## About Me
-I'm Dimitris, a passionate developer specializing in FiveM scripts. My expertise lies in coding, graphic design, and project management. I'm dedicated to creating high-quality, efficient, and reliable software solutions. With a strong focus on continuous improvement, I strive to keep my projects up-to-date with the latest technological advancements. I enjoy collaborating with others in the tech community and am always open to new challenges and opportunities to innovate.
+I'm a passionate developer specializing in FiveM scripts. My expertise lies in coding, graphic design, and project management. I'm dedicated to creating high-quality, efficient, and reliable software solutions. With a strong focus on continuous improvement, I strive to keep my projects up-to-date with the latest technological advancements. I enjoy collaborating with others in the tech community and am always open to new challenges and opportunities to innovate.
 
 ## Projects
 While my GitHub currently only list one project, my crosshair generator for FiveM, I have worked on notable scripts like "King Of The Hill" and "Capture The Flag." These projects demonstrate my commitment to continuous improvement and reliability in software development.
