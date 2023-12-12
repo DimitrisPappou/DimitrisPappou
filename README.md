@@ -22,7 +22,7 @@ I'm dedicated to constantly updating and refining my scripts to ensure optimal p
 ## Connect with Me
 Feel free to reach out for collaborations, questions, or just a friendly chat. I'm always eager to connect with fellow tech enthusiasts and professionals.
 
-<a href="https://www.DimitrisPappou.github.io">Click Here To View My Website</a>
+**<a href="https://DimitrisPappou.github.io">Click Here To View My Website</a>**
 
 <!--
 **DimitrisPappou/DimitrisPappou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
