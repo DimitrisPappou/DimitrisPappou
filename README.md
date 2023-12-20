@@ -25,7 +25,7 @@ Hi there! I'm Dimitris, currently pursuing a degree in Informatics and Telecommu
 ### Contact
 - Email: dimitrispappou@gmail.com
 - LinkedIn: [Dimitris Pappou](https://www.linkedin.com/in/dimitrispappou/)
-- Instagram: [@dimitrisPappou](https://www.instagram.com/dimitrispappou/)
+- Instagram: [@dimitrispappou](https://www.instagram.com/dimitrispappou/)
 - Discord: [dimitris.pappou](https://discordapp.com/users/986007036418465822)
 
 Feel free to reach out or check out my projects!
