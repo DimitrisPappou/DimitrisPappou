@@ -17,7 +17,7 @@ Hi there! I'm Dimitris, currently pursuing a degree in Informatics and Telecommu
 2. **NPC Fighting Game**: An engaging game created with [Technologies]. Features include [Brief Description].
 
 ### Contact
-- 📧 Email: dimitrispappou@gmail.com
+- Email: dimitrispappou@gmail.com
 - LinkedIn: [Dimitris Pappou](https://www.linkedin.com/in/dimitrispappou/)
 - Instagram: [@dimitrisPappou](https://www.instagram.com/dimitrispappou/)
 - Discord: [dimitris.pappou](https://discordapp.com/users/986007036418465822)
