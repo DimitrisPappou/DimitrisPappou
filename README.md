@@ -1,39 +1,27 @@
-# Welcome to Dimitris Pappou's GitHub Repository!
-## Hello there! 👋
+# Dimitris Pappou
 
-I'm Dimitris, a developer with a keen interest in FiveM scripts. My work encompasses coding, graphic design, and project management, with a focus on creating robust and reliable scripts for various applications.
+## Aspiring Informatics & Telecommunications Professional
 
-## About Me
-I'm a passionate developer specializing in FiveM scripts. My expertise lies in coding, graphic design, and project management. I'm dedicated to creating high-quality, efficient, and reliable software solutions. With a strong focus on continuous improvement, I strive to keep my projects up-to-date with the latest technological advancements. I enjoy collaborating with others in the tech community and am always open to new challenges and opportunities to innovate.
+Hi there! I'm Dimitris, currently pursuing a degree in Informatics and Telecommunications, with a keen interest in software development and technology.
 
-## Projects
-While my GitHub currently only list one project, my crosshair generator for FiveM, I have worked on notable scripts like "King Of The Hill" and "Capture The Flag." These projects demonstrate my commitment to continuous improvement and reliability in software development.
+### Skills
+- **Programming Languages**: HTML, CSS, JavaScript, Lua
+- **Tools**: Visual Studio Code, GitHub
 
-## My Services
-I offer a range of services including:
-- **Coding:** Crafting high-quality, efficient code for diverse needs.
-- **Graphic Design:** Creating visually appealing and functional designs.
-- **Project Management:** Ensuring projects are delivered effectively and on time.
+### Education
+- Bachelor's Degree in Informatics & Telecommunications (In Progress)
+- Completed High School with a focus on [specific subjects or achievements]
 
-## Continuous Updates
-I'm dedicated to constantly updating and refining my scripts to ensure optimal performance and to keep up with the latest technological advancements.
+### Projects
+1. **Crosshair Generator**: A tool developed using [Technologies]. It allows [Brief Description].
+2. **NPC Fighting Game**: An engaging game created with [Technologies]. Features include [Brief Description].
 
-## Connect with Me
-Feel free to reach out for collaborations, questions, or just a friendly chat. I'm always eager to connect with fellow tech enthusiasts and professionals.
+### Contact
+- 📧 Email: dimitrispappou@gmail.com
+- LinkedIn: [Your LinkedIn Profile]
+- GitHub: [Your GitHub Profile](https://github.com/DimitrisPappou)
+- Twitter: [@DimitrisPappou](https://twitter.com/DimitrisPappou)
 
-**<a href="https://DimitrisPappou.github.io">Click Here To View My Website</a>**
+Feel free to reach out or check out my projects!
 
-<!--
-**DimitrisPappou/DimitrisPappou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> This README is a reflection of my professional journey and current projects. For more detailed information, visit my [GitHub Profile](https://github.com/DimitrisPappou) or my [Portfolio Website](https://dimitrispappou.github.io).
