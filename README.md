@@ -10,7 +10,7 @@ Hi there! I'm Dimitris, currently pursuing a degree in Informatics and Telecommu
 
 ### Education
 - Bachelor's Degree in Informatics & Telecommunications (In Progress)
-- Completed High School with a focus on [specific subjects or achievements]
+- Completed High School with a focus on Informatics Theory, Economic Theory and Calculus Algebra
 
 ### Projects
 1. **Crosshair Generator**: A tool developed using [Technologies]. It allows [Brief Description].
