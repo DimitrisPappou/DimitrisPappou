@@ -24,4 +24,4 @@ Hi there! I'm Dimitris, currently pursuing a degree in Informatics and Telecommu
 
 Feel free to reach out or check out my projects!
 
-> This README is a reflection of my professional journey and current projects. For more detailed information, visit my [GitHub Profile](https://github.com/DimitrisPappou) or my [Portfolio Website](https://dimitrispappou.github.io).
+> This is a reflection of my professional journey and current projects. For more detailed information, visit my [Portfolio Website](https://dimitrispappou.github.io).
