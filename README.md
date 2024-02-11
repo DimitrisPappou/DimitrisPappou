@@ -11,6 +11,10 @@ Hi there! I'm Dimitris, currently pursuing a degree in Informatics and Telecommu
 - **Tools**:
 
 Visual Studio Code, GitHub
+![Visual Studio Code](https://img.shields.io/badge/-visualstudiocode-#007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- **Frameworks/Libraries:**
+
+!
 
 ### Education
 - Bachelor's Degree in Informatics & Telecommunications (In Progress)
