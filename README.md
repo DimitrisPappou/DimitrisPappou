@@ -23,6 +23,7 @@ Hi there! I'm Dimitris, currently pursuing a degree in Informatics and Telecommu
 - Completed High School with a focus on Informatics Theory, Economic Theory and Calculus Algebra
 
 ### Projects
+All my projects are either in my github repository or you can see them in my page below
 
 ### Contact
 - Email: dimitrispappou@gmail.com
